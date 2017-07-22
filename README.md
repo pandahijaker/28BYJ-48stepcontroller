@@ -1,2 +1,3 @@
 # 28BYJ-48stepcontroller
-Using python
+# Using python
+# not finsh yet
